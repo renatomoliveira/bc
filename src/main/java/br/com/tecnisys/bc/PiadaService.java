@@ -20,5 +20,6 @@ public class PiadaService {
     private void popularPiadas() {
         piadas.add(new Piada(1,"Qual tempero é odiado pelos outros? O sal grosso!"));
         piadas.add(new Piada(2,"Qual é o nome da cidade que molha os bêbados quando chove? BarSemLona"));
+        piadas.add(new Piada(3,"O que o m.m.c estava fazendo em baixo da escada? Esperando o m.d.c."));        
     }
 }
